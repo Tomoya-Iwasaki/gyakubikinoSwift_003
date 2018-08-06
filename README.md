@@ -1,0 +1,2 @@
+# gyakubikinoSwift_003
+逆引きのswift003をやりました。viewControllerとmyInfoDarkButtonでエラーが出ましたが、自動fix的なものを使ったらエラー直りました。
